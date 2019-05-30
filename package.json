@@ -1,5 +1,5 @@
 {
-  "name": "Friend-Finder",
+  "name": "FriendFinder",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,7 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Aldalaeen/FriendFinder.git"
-  
-  } 
+    "url": "git+https://github.com/Aldalaeen/FriendFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aldalaeen/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/Aldalaeen/FriendFinder#readme"
 }
